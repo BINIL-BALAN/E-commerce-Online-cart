@@ -1,0 +1,14 @@
+header{
+    background: url(https://optinmonster.com/wp-content/uploads/2019/01/cart-abandonment-statistics.png);
+    background-color: #1a4351;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card-img-top{
+transition: 1s;
+}
+
+.card-img-top:hover{
+    transform: scale(1.1);
+}
